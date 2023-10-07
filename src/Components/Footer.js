@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import { FaInstagram, FaGithub, FaLinkedin } from "react-icons/fa";
 import image2 from "../assets/mintbackground.jpg";
 
 export const Footer = () => {
